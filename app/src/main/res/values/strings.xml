@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">RiversideAssignment</string>
+    <string name="app_name">RiversideTest</string>
+    <string name="search_title_hint">Search title</string>
+    <string name="release_year">Release Year: %1$s</string>
+    <string name="favourite_button">favourite button</string>
+    <string name="poster">poster</string>
+    <string name="no_titles_error">No titles found for the search query</string>
+    <string name="part_data">Showing part of the data, connect to internet</string>
+    <string name="failed_to_load_movie_details">Failed to load movie details</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="title_empty_error">Please enter a title</string>
 </resources>
